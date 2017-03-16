@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySqlApplication</string>
+    <string name="main_text">Todo List</string>
+</resources>
